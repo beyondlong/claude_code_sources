@@ -124,4 +124,4 @@ npm install -g @anthropic-ai/claude-code@2.1.88
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=beyondlong/claude_code_sources&type=Date)](https://star-history.com/#pbeyondlong/claude_code_sources&Date)
+[![Star History Chart](https://api.star-history.com/image?repos=beyondlong/claude_code_sources&type=date&legend=top-left)](https://www.star-history.com/?repos=beyondlong%2Fclaude_code_sources&type=date&legend=top-left)
